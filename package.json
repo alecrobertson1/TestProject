@@ -1,0 +1,11 @@
+{
+  "name": "TestProject",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "node-mailjet": "^6.0.2"
+  }
+}
